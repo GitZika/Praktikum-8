@@ -4,7 +4,7 @@
 #### KELAS : TI 22 A3
 #### NIM   : 312210287
 
-### PERTEMUAN 13 : Penanganan Eksepsi
+### PERTEMUAN 13 : Exception Handling
 
 # CASE 1
 
